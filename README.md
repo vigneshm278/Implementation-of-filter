@@ -141,8 +141,8 @@ i) Using Laplacian Kernal
 
 
 ii) Using Laplacian Operator
+<img width="251" height="411" alt="Untitled" src="https://github.com/user-attachments/assets/72f38b6f-9338-480f-9d29-40dcf38e3e56" />
 
-![Uploading Untitled-1.png…]()
 
 
 
